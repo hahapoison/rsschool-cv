@@ -49,3 +49,10 @@ public class Kata
     }
 }
 ```
+
+## Education:
+
+- Kramatorsk Professional College of Industry, Information Technologies and Business of Donbass State Machine-Building Academy (**by specialty Computer Science**)
+- Courses:
+    - [HTML Academy](https://htmlacademy.ru "Link to HTML Academy")
+    - [RS School](https://rs.school/ "Link to RS School")
