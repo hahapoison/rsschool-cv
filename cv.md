@@ -56,3 +56,8 @@ public class Kata
 - Courses:
     - [HTML Academy](https://htmlacademy.ru "Link to HTML Academy")
     - [RS School](https://rs.school/ "Link to RS School")
+
+## Languages:
+
+- Russian, Ukrainian – native speaker
+- English – A1+
