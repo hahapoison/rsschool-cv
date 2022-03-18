@@ -12,3 +12,12 @@
 - I am in college with a degree in Computer Science. 
 - I enjoy learning and getting new knowledge. 
 - I want to get knowledge and skills in web development.
+
+## Skills:
+
+- HTML
+- CSS (SCSS/BEM)
+- Git/GitHub
+- JavaScript (Basic)
+- C#/.NET (Basic)
+- Photoshop/Figma
