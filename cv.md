@@ -21,3 +21,31 @@
 - JavaScript (Basic)
 - C#/.NET (Basic)
 - Photoshop/Figma
+
+## Code example (C#):
+
+**Exercise:** An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.
+```C#
+using System;
+public class Kata
+{
+    public static bool IsIsogram(string str) 
+    {
+        if(str == "")
+            return true;
+        str = str.ToLower();
+        
+        for (int i = 0; i < str.Length; i++)
+        {
+            for (int j = 0; j < str.Length; j++) 
+            {
+                if (j == i)
+                    continue;
+                if (str[i] == str[j])
+                    return false;
+            }
+        }
+            return true;
+    }
+}
+```
